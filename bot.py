@@ -60,4 +60,4 @@ async def on_message(message):
         await client.send_message(message.channel,(random.choice(hug)))
         
     
-client.run("NDAxMTI0MTQ1NDkwMDM0Njg4.DcFMnQ.Eku5FEn98WjBS_SsysVWPOhp8Wk")
+client.run("Client ID")
